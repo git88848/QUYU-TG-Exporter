@@ -65,8 +65,8 @@ from datetime import datetime
 
 # Telegram API 配置
 # 请从 https://my.telegram.org/apps 获取这些值
-API_ID = 28330065  # 修改为新的 API_ID
-API_HASH = 'f26de618b5433c51826eb48642a00ddf'  # 修改为新的 API_HASH
+API_ID = 28338165  # 修改为新的 API_ID
+API_HASH = 'f26de618b5433c51826eb4123400ddf'  # 修改为新的 API_HASH
 
 def adjust_column_width(worksheet):
     """自动调整列宽"""
