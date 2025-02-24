@@ -1,4 +1,4 @@
-# 🚀 趋于飞机数据一键导出工具 (TG-Exporter)
+# 🚀 趋于飞机数据一键导出工具 (QUYU-TG-Exporter)
 
 一款功能强大的 Telegram 数据导出工具，支持多种数据类型导出和 Excel 格式保存。 🔥
 
