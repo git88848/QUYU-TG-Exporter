@@ -1,3 +1,56 @@
+"""
+====================================
+    趋于飞机数据一键导出工具 v1.0.0   
+====================================
+
+✨ 功能简介
+----------
+一款功能强大的 Telegram 数据导出工具，支持多种数据类型导出和 Excel 格式保存。
+
+📱 Telegram社群信息
+----------
+• 官方频道：@QUYUkjpd
+• 交流群组：@QUYUkjq
+• 联系作者：@Lawofforce
+
+💝 赞助支持
+----------
+感谢您的支持，这是我们持续改进的动力！
+
+• TRC20-USDT 钱包地址:
+  TQ2gs6167orQSVWVNHWrKq9SZ8a5WRETZs
+
+⚠️ 免责声明
+----------
+• 本工具仅供学习交流使用
+• 严禁用于非法用途
+• 使用本工具所产生的一切后果由使用者自行承担
+
+📜 许可协议
+----------
+MIT License
+
+Copyright (c) 2025 git88848
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+"""
+
 import sys
 sys.dont_write_bytecode = True  # 禁止生成 __pycache__
 
